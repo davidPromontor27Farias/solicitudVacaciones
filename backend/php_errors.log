@@ -1,0 +1,222 @@
+[07-May-2025 22:21:50 Europe/Berlin] Error: Access denied for user 'root'@'localhost' (using password: YES)
+[07-May-2025 22:27:14 Europe/Berlin] Error: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[07-May-2025 22:38:11 Europe/Berlin] Error: Access denied for user 'root'@'localhost' (using password: YES)
+[07-May-2025 23:31:19 Europe/Berlin] Error: Empleado no registrado
+[07-May-2025 23:31:38 Europe/Berlin] Error: Empleado no registrado
+[09-May-2025 17:13:42 Europe/Berlin] Error: Empleado no registrado en el sistema
+[09-May-2025 17:45:51 Europe/Berlin] Error: Empleado no registrado en el sistema
+[11-May-2025 19:31:55 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:31:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:17 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:28 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:45 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:32:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:38:01 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:38:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:38:23 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:38:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:45:05 Europe/Berlin] PHP Warning:  require(./vendor/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:45:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required './vendor/phpmailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 19:50:19 Europe/Berlin] Error: Access denied for user 'imperquimiaVacaciones'@'localhost' (using password: YES)
+[11-May-2025 21:31:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:163
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 163
+[11-May-2025 21:35:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:114
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 114
+[11-May-2025 21:41:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:163
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 163
+[11-May-2025 21:45:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\Exception" not found in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:114
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 114
+[11-May-2025 21:54:47 Europe/Berlin] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 21:54:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 14
+[11-May-2025 21:59:25 Europe/Berlin] Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[11-May-2025 21:59:25 Europe/Berlin] Error: Se registró la solicitud pero no se pudo enviar el correo de notificación
+[11-May-2025 22:01:46 Europe/Berlin] Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[11-May-2025 22:01:46 Europe/Berlin] Error: Se registró la solicitud pero no se pudo enviar el correo de notificación
+[11-May-2025 22:51:17 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 05:48:57 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 05:57:56 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 05:58:19 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 05:59:22 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 06:01:48 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 06:02:35 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 06:03:06 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:39:21 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:39:46 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:40:30 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:41:37 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:42:05 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 15:42:26 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 16:15:36 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 16:16:26 Europe/Berlin] Error: Empleado no registrado en el sistema
+[12-May-2025 16:27:26 Europe/Berlin] Buscando empleado con número: 32007373
+[12-May-2025 16:27:26 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:27:26 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007373
+[12-May-2025 16:28:00 Europe/Berlin] Buscando empleado con número: 32007281
+[12-May-2025 16:28:00 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:28:00 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007281
+[12-May-2025 16:28:54 Europe/Berlin] Buscando empleado con número: 32007281
+[12-May-2025 16:28:54 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:28:54 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007281
+[12-May-2025 16:30:20 Europe/Berlin] Buscando empleado con número: 32007410
+[12-May-2025 16:30:20 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 16:45:24 Europe/Berlin] Buscando empleado con número: 32007489
+[12-May-2025 16:45:24 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:45:24 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007489
+[12-May-2025 16:45:27 Europe/Berlin] Buscando empleado con número: 32007489
+[12-May-2025 16:45:27 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:45:27 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007489
+[12-May-2025 16:45:36 Europe/Berlin] Buscando empleado con número: 32007489
+[12-May-2025 16:45:36 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 16:45:36 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007489
+[12-May-2025 16:46:08 Europe/Berlin] Buscando empleado con número: 32007476
+[12-May-2025 16:46:08 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 17:42:54 Europe/Berlin] Buscando empleado con número: 32007537
+[12-May-2025 17:42:54 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 18:58:46 Europe/Berlin] Buscando empleado con número: 32007477
+[12-May-2025 18:58:46 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 18:58:46 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007477
+[12-May-2025 18:59:11 Europe/Berlin] Buscando empleado con número: 32007474
+[12-May-2025 18:59:11 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 18:59:11 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007474
+[12-May-2025 18:59:42 Europe/Berlin] Buscando empleado con número: 32007476
+[12-May-2025 18:59:42 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 19:04:44 Europe/Berlin] Buscando empleado con número: 32007547
+[12-May-2025 19:04:44 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 23:25:16 Europe/Berlin] Buscando empleado con número: 32007438
+[12-May-2025 23:25:16 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 23:25:16 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007438
+[12-May-2025 23:25:20 Europe/Berlin] Buscando empleado con número: 32007438
+[12-May-2025 23:25:20 Europe/Berlin] Resultados encontrados: 0
+[12-May-2025 23:25:20 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007438
+[12-May-2025 23:25:44 Europe/Berlin] Buscando empleado con número: 32007436
+[12-May-2025 23:25:44 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 23:40:40 Europe/Berlin] Buscando empleado con número: 32009159
+[12-May-2025 23:40:40 Europe/Berlin] Resultados encontrados: 1
+[12-May-2025 23:56:14 Europe/Berlin] Buscando empleado con número: 32009029
+[12-May-2025 23:56:14 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 00:14:59 Europe/Berlin] Buscando empleado con número: 32007376
+[13-May-2025 00:14:59 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 04:38:41 Europe/Berlin] Buscando empleado con número: 32007203
+[13-May-2025 04:38:41 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 04:38:53 Europe/Berlin] Buscando empleado con número: 32007203
+[13-May-2025 04:38:53 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 04:38:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imperquimiavacaciones.solicitudes_vacaciones' doesn't exist in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:123
+Stack trace:
+#0 C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php(123): mysqli->prepare('INSERT INTO sol...')
+#1 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 123
+[13-May-2025 04:38:59 Europe/Berlin] Buscando empleado con número: 32007203
+[13-May-2025 04:38:59 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 04:38:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imperquimiavacaciones.solicitudes_vacaciones' doesn't exist in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php:123
+Stack trace:
+#0 C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php(123): mysqli->prepare('INSERT INTO sol...')
+#1 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php on line 123
+[13-May-2025 04:42:01 Europe/Berlin] Buscando empleado con número: 32007243
+[13-May-2025 04:42:01 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 04:42:01 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007243
+[13-May-2025 04:42:09 Europe/Berlin] Buscando empleado con número: 32007243
+[13-May-2025 04:42:09 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 04:42:09 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007243
+[13-May-2025 04:42:15 Europe/Berlin] Buscando empleado con número: 32007243
+[13-May-2025 04:42:15 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 04:42:15 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007243
+[13-May-2025 04:42:41 Europe/Berlin] Buscando empleado con número: 32007246
+[13-May-2025 04:42:41 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 05:02:50 Europe/Berlin] Buscando empleado con número: 32007376
+[13-May-2025 05:02:50 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 05:27:58 Europe/Berlin] Buscando empleado con número: 32007377
+[13-May-2025 05:27:58 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 05:27:58 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007377
+[13-May-2025 05:28:01 Europe/Berlin] Buscando empleado con número: 32007377
+[13-May-2025 05:28:01 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 05:28:01 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007377
+[13-May-2025 05:28:06 Europe/Berlin] Buscando empleado con número: 32007377
+[13-May-2025 05:28:06 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 05:28:06 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007377
+[13-May-2025 05:28:08 Europe/Berlin] Buscando empleado con número: 32007377
+[13-May-2025 05:28:08 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 05:28:08 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007377
+[13-May-2025 05:28:40 Europe/Berlin] Buscando empleado con número: 32007380
+[13-May-2025 05:28:40 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 05:34:37 Europe/Berlin] Buscando empleado con número: 32007380
+[13-May-2025 05:34:37 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 05:47:28 Europe/Berlin] Buscando empleado con número: 32007380
+[13-May-2025 05:47:28 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 19:37:50 Europe/Berlin] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidFileException: Failed to parse dotenv file. Encountered unexpected whitespace at [Sistema de Vacaciones]. in C:\xampp\htdocs\imperquimiaVacaciones\vendor\vlucas\phpdotenv\src\Parser\Parser.php:30
+Stack trace:
+#0 C:\xampp\htdocs\imperquimiaVacaciones\vendor\graham-campbell\result-type\src\Error.php(119): Dotenv\Parser\Parser::Dotenv\Parser\{closure}('Encountered une...')
+#1 C:\xampp\htdocs\imperquimiaVacaciones\vendor\vlucas\phpdotenv\src\Parser\Parser.php(29): GrahamCampbell\ResultType\Error->mapError(Object(Closure))
+#2 C:\xampp\htdocs\imperquimiaVacaciones\vendor\vlucas\phpdotenv\src\Dotenv.php(222): Dotenv\Parser\Parser->parse('DB_HOST=localho...')
+#3 C:\xampp\htdocs\imperquimiaVacaciones\backend\guardar_solicitud.php(14): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in C:\xampp\htdocs\imperquimiaVacaciones\vendor\vlucas\phpdotenv\src\Parser\Parser.php on line 30
+[13-May-2025 19:56:20 Europe/Berlin] Buscando empleado con número: 32007289
+[13-May-2025 19:56:20 Europe/Berlin] Resultados encontrados: 1
+[13-May-2025 21:09:13 Europe/Berlin] Buscando empleado con número: 32007433
+[13-May-2025 21:09:13 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 21:09:13 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007433
+[13-May-2025 21:09:17 Europe/Berlin] Buscando empleado con número: 32007433
+[13-May-2025 21:09:17 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 21:09:17 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007433
+[13-May-2025 21:09:20 Europe/Berlin] Buscando empleado con número: 32007433
+[13-May-2025 21:09:20 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 21:09:20 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007433
+[13-May-2025 21:09:28 Europe/Berlin] Buscando empleado con número: 32007432
+[13-May-2025 21:09:28 Europe/Berlin] Resultados encontrados: 0
+[13-May-2025 21:09:28 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 32007432
+[13-May-2025 21:09:50 Europe/Berlin] Buscando empleado con número: 32007436
+[13-May-2025 21:09:50 Europe/Berlin] Resultados encontrados: 1
+[14-May-2025 18:15:32 Europe/Berlin] Buscando empleado con número: 32007490
+[14-May-2025 18:15:32 Europe/Berlin] Resultados encontrados: 1
+[14-May-2025 18:15:46 Europe/Berlin] Buscando empleado con número: 32007490
+[14-May-2025 18:15:46 Europe/Berlin] Resultados encontrados: 1
+[14-May-2025 18:24:44 Europe/Berlin] Buscando empleado con número: 32007490
+[14-May-2025 18:24:44 Europe/Berlin] Resultados encontrados: 1
+[14-May-2025 18:25:11 Europe/Berlin] Buscando empleado con número: 32007565
+[14-May-2025 18:25:11 Europe/Berlin] Resultados encontrados: 1
+[15-May-2025 17:04:45 Europe/Berlin] Buscando empleado con número: 3200761
+[15-May-2025 17:04:45 Europe/Berlin] Resultados encontrados: 0
+[15-May-2025 17:04:45 Europe/Berlin] Error: Empleado no registrado en el sistema. Número proporcionado: 3200761
+[15-May-2025 17:05:04 Europe/Berlin] Buscando empleado con número: 32007613
+[15-May-2025 17:05:04 Europe/Berlin] Resultados encontrados: 1
+[15-May-2025 17:14:59 Europe/Berlin] Buscando empleado con número: 32007478
+[15-May-2025 17:14:59 Europe/Berlin] Resultados encontrados: 1
+[15-May-2025 17:15:41 Europe/Berlin] Buscando empleado con número: 32007478
+[15-May-2025 17:15:41 Europe/Berlin] Resultados encontrados: 1
+[16-May-2025 19:49:31 Europe/Berlin] Buscando empleado con número: 32007289
+[16-May-2025 19:49:31 Europe/Berlin] Resultados encontrados: 1
